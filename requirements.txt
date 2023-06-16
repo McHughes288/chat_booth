@@ -1,8 +1,8 @@
+speechmatics-python
+toml~=0.10.2
 sounddevice
 langchain
 openai
 urllib3==1.26.15
 aioconsole
 elevenlabs
-anthropic
-speechmatics-python
